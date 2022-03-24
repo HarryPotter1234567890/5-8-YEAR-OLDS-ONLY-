@@ -1,0 +1,19 @@
+body{
+    background-color:teal;
+font-family:monospace;
+color:aliceblue;
+
+}
+#score{
+    font-size:35px;
+    margin-left:10px;
+}
+#timer{
+    float:right;
+    font-size:35px;
+    margin-right:10px;
+}
+#show_sketch{
+    float:right;
+    margin-right:10px;
+}
